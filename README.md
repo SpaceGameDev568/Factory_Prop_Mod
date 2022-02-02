@@ -1,5 +1,6 @@
 # Factory_Prop_Mod
-Factory Prop Mod Source Code (For Satisfactory)<br>
+Factory Prop Mod Source Code (For Satisfactory)
+
 Mod Page on Satisfactory Mod Repository: https://ficsit.app/mod/Factory_Prop_Mod
 
 Tutorial Video on how to use:
