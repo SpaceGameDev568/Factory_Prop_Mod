@@ -1,4 +1,4 @@
- ##### __*Your One-Stop-Shop for all your decorating needs!*__
+##### __*Your One-Stop-Shop for all your decorating needs!*__
 
 ##### Multiplayer Compatible
 This Mod adds everything from parts to plants (with a total of over 500+ new items!!) to the Build Menu. This allows for full freedom when decorating your factory.
@@ -25,9 +25,13 @@ I hope this mod helps anyone wishing to make decorating their factories easier. 
 #### Compatible with Micro Manage to resize and move objects<br>[__Micro Manage Mod__](https://ficsit.app/mod/MicroManage)
 <details>
 <summary>Screenshots</summary>
+
+[View Screenshots](https://drive.google.com/drive/folders/1b3x5U3yLMNs-nPqLYPEoSoCAR_JHz7lm?usp=sharing)
+
  </details>
 
-##### If your having trouble with Multiplayer, consider using Goz3rr's Save Editor to remove any duplicate schematics.
+##### If you're having trouble with Multiplayer, consider using Goz3rr's Save Editor to remove any duplicate schematics.
+
 
 ### Updates:
 
