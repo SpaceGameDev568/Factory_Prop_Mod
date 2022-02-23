@@ -1,4 +1,4 @@
-##### __*Your One-Stop-Shop for all your decorating needs!*__
+ ##### __*Your One-Stop-Shop for all your decorating needs!*__
 
 ##### Multiplayer Compatible
 This Mod adds everything from parts to plants (with a total of over 500+ new items!!) to the Build Menu. This allows for full freedom when decorating your factory.
@@ -30,7 +30,7 @@ I hope this mod helps anyone wishing to make decorating their factories easier. 
 
  </details>
 
-##### If you're having trouble with Multiplayer, consider using Goz3rr's Save Editor to remove any duplicate schematics.
+##### If you're having trouble with Multiplayer, consider using [Goz3rr's Save Editor](https://github.com/Goz3rr/SatisfactorySaveEditor) to remove any duplicate schematics.
 
 
 ### Updates:
