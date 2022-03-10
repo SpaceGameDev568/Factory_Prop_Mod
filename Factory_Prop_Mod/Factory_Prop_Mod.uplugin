@@ -1,0 +1,26 @@
+{
+    "FileVersion": 3,
+    "Version": 0,
+    "VersionName": "0.2.81",
+    "SemVersion": "0.2.81",
+    "FriendlyName": "Factory_Prop_Mod",
+    "Description": "Your one stop shop for all your decorating needs!",
+    "Category": "Modding",
+    "CreatedBy": "SpaceGameDev568",
+    "CreatedByURL": "https://github.com/SpaceGameDev568",
+    "DocsURL": "https://github.com/SpaceGameDev568/Factory_Prop_Mod/blob/main/DONTREADME.md",
+    "MarketplaceURL": "https://ficsit.app/mod/Factory_Prop_Mod",
+    "SupportURL": "https://github.com/SpaceGameDev568/Factory_Prop_Mod/issues",
+    "CanContainContent": true,
+    "IsBetaVersion": false,
+    "IsExperimentalVersion": false,
+    "Installed": false,
+    "AcceptsAnyRemoteVersion": false,
+    "Plugins": [
+        {
+            "Name": "SML",
+            "SemVersion": "^3.3.0",
+            "Enabled": true
+        }
+    ]
+}
