@@ -1,4 +1,4 @@
-# Remove Models Directory for copyright reasons
+# Remove Models directory for copyright reasons
 /Content/FactoryDecorMod/Models/*
 
 # Ignore saved build files
