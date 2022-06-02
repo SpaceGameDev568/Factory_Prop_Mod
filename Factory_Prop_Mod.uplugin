@@ -1,8 +1,8 @@
 {
     "FileVersion": 3,
     "Version": 0,
-    "VersionName": "0.3.6",
-    "SemVersion": "0.3.6",
+    "VersionName": "1.0.0",
+    "SemVersion": "1.0.0",
     "FriendlyName": "Factory Props",
     "Description": "Your one stop shop for all your decorating needs!",
     "Category": "Modding",
