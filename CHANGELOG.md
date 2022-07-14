@@ -74,13 +74,13 @@
 
   * Fixed incorrect transforms/orientations of assets:
 
-   * Desert Rock 5
+     * Desert Rock 5
 
-   * Rubble 6
+     * Rubble 6
 
-   * Dead Swamp Tree 3
+     * Dead Swamp Tree 3
 
-   * All Coral Reefs
+     * All Coral Reefs
 
 Header:
 
