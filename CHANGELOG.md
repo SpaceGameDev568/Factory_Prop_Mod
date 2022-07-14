@@ -8,7 +8,7 @@
 
   * Implemented New Crab Hatcher Mesh, Added New Icon
 
-  * Removed Deprecated Asset: Uppocher Tree Taller
+  * Removed Deprecated Asset: Uppochner Tree Taller
 
   * Updated Meshes for Huegelainen Tree and Huegelainen Tree Teen, Added New Icons for all Huegelainens
 
@@ -30,7 +30,7 @@
 
   * Added Uppochner Bulb Plant x3; Registered, Has Icons, Sorted
 
-  * Added Tall Mushroom 3; Registered, All 3 Have Icons, Sorted; Switched SM_TallMushroom_02 and ""_03 to the correct numeric builable asset, Need New Icons all
+  * Added Tall Mushroom 3; Registered, All 3 Have Icons, Sorted; Switched SM_TallMushroom_02 and ""_03 to the correct numeric buildable asset, Need New Icons all
 
   * Added Barnacle 2, Renamed Barnacle (1), Edited Barnacle (1) Cost, Barnacle 2; Registered, Has Icon, Sorted
 
@@ -72,6 +72,8 @@
 
   * Sorted changed Build Menu entries
 
+ Bug Fixes:
+
   * Fixed incorrect transforms/orientations of assets:
 
      * Desert Rock 5
@@ -82,6 +84,6 @@
 
      * All Coral Reefs
 
-Header:
+  * Fixed Nobelisk Detonator Prop costing 0 Iron Rods
 
-Update 6 Compatibility Beta Now Available! Warning: Do not update your mod version unless you intend to play on the experimental branch of the game. Otherwise, stay on version 1.0.0.
+  * Fixed Smokeless Powder Prop using Black Powder Icon
