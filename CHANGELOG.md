@@ -1,3 +1,9 @@
+To-Do:
+
+Rebuild NewMiscDecorUnlock Schematic
+
+Add SAM Node and Deposit, Redo all nodes
+
 7/12/2022 9:00 AM
 
  U6 Prep changes:
