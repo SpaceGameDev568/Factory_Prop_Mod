@@ -1,10 +1,10 @@
 {
     "FileVersion": 3,
-    "Version": 0,
-    "VersionName": "0.3.4",
-    "SemVersion": "0.3.4",
+    "Version": 1,
+    "VersionName": "1.1.0",
+    "SemVersion": "1.1.0",
     "FriendlyName": "Factory Props",
-    "Description": "Your one stop shop for all your decorating needs!",
+    "Description": "Your one stop shop for all your decorating needs! Now in Update 6!",
     "Category": "Modding",
     "CreatedBy": "SpaceGameDev568",
     "CreatedByURL": "https://github.com/SpaceGameDev568",
@@ -19,7 +19,7 @@
     "Plugins": [
         {
             "Name": "SML",
-            "SemVersion": "^3.3.0",
+            "SemVersion": "^3.3.2",
             "Enabled": true
         }
     ]
