@@ -1,8 +1,8 @@
 To-Do:
 
-Rebuild NewMiscDecorUnlock Schematic
+ * Create new creature statues
 
-Add SAM Node and Deposit, Redo all nodes
+ * Add SAM Node and Deposit, Redo all nodes
 
 7/12/2022 9:00 AM
 
@@ -93,3 +93,9 @@ Add SAM Node and Deposit, Redo all nodes
   * Fixed Nobelisk Detonator Prop costing 0 Iron Rods
 
   * Fixed Smokeless Powder Prop using Black Powder Icon
+
+7/20/2022 2:00 PM
+
+ Bug Fixes:
+
+ * Fixed a potential crash related to corrupted blueprints. This involved removing all creature statues from the mod.
