@@ -1,14 +1,8 @@
 To-Do:
 
-Fix Corrupted Files:
+Rebuild NewMiscDecorUnlock Schematic
 
- * Validate and rebuild every asset in the mod. (Fuck My Life)
-
- * Rebuild NewMiscDecorUnlock Schematic
-
- * Rebuild GameWorldModule
-
- * Add SAM Node and Deposit, Redo all nodes
+Add SAM Node and Deposit, Redo all nodes
 
 7/12/2022 9:00 AM
 
