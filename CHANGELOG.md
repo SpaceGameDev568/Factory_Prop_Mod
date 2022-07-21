@@ -4,9 +4,13 @@ To-Do:
 
  * Add SAM Node and Deposit, Redo all nodes
 
+ * Node re-dos: copper, bauxite, uranium, and quartz
+
 7/12/2022 9:00 AM
 
  U6 Prep changes:
+
+  * Bump Version: 1.0.0 -> 1.1.0
 
   * Fixed Improper Lighting on Nature Foundations
 
@@ -99,3 +103,13 @@ To-Do:
  Bug Fixes:
 
  * Fixed a potential crash related to corrupted blueprints. This involved removing all creature statues from the mod.
+
+ * Bump Version: 1.1.0 -> 1.1.1
+
+7/21/2022 7:00 AM
+
+ Bug Fixes:
+
+ * Removed Invalid Entries in the NewFactoryDecorUnlock Schematic that were causing the game to crash.
+
+ * Bump Version: 1.1.1 -> 1.1.2
