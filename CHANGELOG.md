@@ -2,10 +2,6 @@ To-Do:
 
  * Create new creature statues
 
- * Add SAM Node and Deposit, Redo all nodes
-
- * Node re-dos: copper, bauxite, uranium, and quartz
-
 7/12/2022 9:00 AM
 
  U6 Prep changes:
@@ -113,3 +109,41 @@ To-Do:
  * Removed Invalid Entries in the NewFactoryDecorUnlock Schematic that were causing the game to crash.
 
  * Bump Version: 1.1.1 -> 1.1.2
+
+7/22/2022 10:00 AM
+
+ New Content:
+
+ * Added S.A.M. Deposit (Decorative); Registered, Has Icon, Sorted
+
+ * Added S.A.M. Node (Decorative) ; Registered, Has Icon, Sorted
+
+ * Update MiscDecorUI and PlantModUI sources
+
+ Bug Fixes:
+
+ * Updated Materials on Copper, Bauxite, Uranium, Iron, and Quartz Decorative Nodes
+
+ * Fixed Iron Node (Decorative) spawning 10 buildings instead of just one
+
+8/25/2022 2:30 PM
+
+ * Bump Version 1.1.2 -> 1.1.3
+
+ New Content:
+
+ * Added Idle Pioneer Buildable
+
+ Bug Fixes:
+
+ * Fixed Materials on Pioneer Statues
+
+9/3/2022 11:30 AM
+
+ * Renamed all Pioneer Statues to "Mannequin Pioneer"
+
+ Bug Fixes:
+
+ * Fixed Collision on Large Industrial Fan
+
+ * Fixed Collision on Large Workbench
