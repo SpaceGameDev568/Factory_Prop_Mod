@@ -147,3 +147,13 @@ To-Do:
  * Fixed Collision on Large Industrial Fan
 
  * Fixed Collision on Large Workbench
+
+9/4/2022 10:30 AM
+
+ * Bump Version 1.1.3 -> 1.1.4
+
+ Bug Fixes:
+
+ * Fixed wrong materials on Quartz Node (Decorative)
+
+ * Fixed incorrect resource requirements on Copper Powder Prop
