@@ -170,6 +170,6 @@ To-Do:
 
   * Deleted Unused icons
  
- * Total Content Folder size reduction: Aproximately 400 Megabytes
+ * Total Content Folder size reduction: Approximately 400 Megabytes (Uncompressed/Decompiled)
 
  * Added TO-DO.md for tracking things to do
