@@ -157,3 +157,17 @@ To-Do:
  * Fixed wrong materials on Quartz Node (Decorative)
 
  * Fixed incorrect resource requirements on Copper Powder Prop
+
+10/1/2022
+
+ * Bump Version 1.1.4 -> 1.1.5
+
+ * Major Optimizations
+
+  * Deleted Unused files in models directory
+
+  * Changed all Prop icons to vanilla icons instead of imported ones
+
+  * Deleted Unused icons
+ 
+ * Total Content Folder size reduction: Aproximately 400 Megabytes
