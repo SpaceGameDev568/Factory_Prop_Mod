@@ -1,8 +1,8 @@
 {
     "FileVersion": 3,
     "Version": 1,
-    "VersionName": "1.1.5",
-    "SemVersion": "1.1.5",
+    "VersionName": "1.1.6",
+    "SemVersion": "1.1.6",
     "FriendlyName": "Factory Props",
     "Description": "Your one stop shop for all your decorating needs!",
     "Category": "Modding",
@@ -19,7 +19,7 @@
     "Plugins": [
         {
             "Name": "SML",
-            "SemVersion": "^3.3.2",
+            "SemVersion": "^3.4.0",
             "Enabled": true
         }
     ]

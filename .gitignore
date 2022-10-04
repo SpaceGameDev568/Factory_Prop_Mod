@@ -1,8 +1,8 @@
 # Remove Models directory for copyright reasons
 /Content/FactoryDecorMod/Models/*
 
-# Ignore saved build files
+# Ignore saved build artifacts
 /Saved/*
 
-# Ignore Crypto.json Idk why it's there
+# Ignore Crypto.json idk why it's there
 /Modding/*
