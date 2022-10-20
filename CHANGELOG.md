@@ -173,3 +173,13 @@ To-Do:
  * Total Content Folder size reduction: Approximately 400 Megabytes (Uncompressed/Decompiled)
 
  * Added TO-DO.md for tracking things to do
+
+10/2/2022
+
+* Project Upgrade to SML v3.4.0
+
+* Fixed missing Build Menu icons
+
+10/6/2022
+
+ * Bump Version 1.1.6 -> 1.1.7
