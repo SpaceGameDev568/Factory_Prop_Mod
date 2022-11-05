@@ -183,3 +183,9 @@ To-Do:
 10/6/2022
 
  * Bump Version 1.1.6 -> 1.1.7
+
+ * Changed the display names of the extractor, train, and drone prop to have the suffix "Prop"
+
+ * Fixed the icons of the rifle and quartz crystal props
+
+ 
