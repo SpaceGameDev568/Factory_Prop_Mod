@@ -186,6 +186,7 @@ To-Do:
 
  * Changed the display names of the extractor, train, and drone prop to have the suffix "Prop"
 
- * Fixed the icons of the rifle and quartz crystal props
+11/5/2022
 
+ * Fixed the icons of the rifle, quartz ore, and quartz crystal props
  
