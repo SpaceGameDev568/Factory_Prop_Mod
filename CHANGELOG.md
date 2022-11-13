@@ -189,3 +189,10 @@ To-Do:
 11/5/2022
 
  * Fixed the icons of the rifle, quartz ore, and quartz crystal props
+
+11/12/2022
+
+ * Bump Version 1.1.7 -> 1.1.8
+
+ * Added a mod configuration system that allows the enabling/disabling of schematics for the Prop, Foliage, and Decor unlocks. (It will be more content specific later.)
+
