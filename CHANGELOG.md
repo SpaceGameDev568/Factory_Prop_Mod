@@ -192,7 +192,14 @@ To-Do:
 
 11/12/2022
 
- * Bump Version 1.1.7 -> 1.1.8
+ * Bump Version 1.1.7 -> 1.2.0
 
- * Added a mod configuration system that allows the enabling/disabling of schematics for the Prop, Foliage, and Decor unlocks. (It will be more content specific later.)
+ * Added a mod configuration system that allows the enabling/disabling of schematics for the Prop, Foliage, and Decor unlocks.
 
+11/13/2022
+
+ * Created new schematics for each building category in the mod (39 in total) which will replace the original schematics
+
+ * Sorted all prop items in the build menu
+
+ * Added Factory Props initialization confirmation message in the chat window on startup
