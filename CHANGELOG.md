@@ -1,7 +1,3 @@
-To-Do:
-
- * Create new creature statues
-
 7/12/2022 9:00 AM
 
  U6 Prep changes:
@@ -202,4 +198,14 @@ To-Do:
 
  * Sorted all prop items in the build menu
 
- * Added Factory Props initialization confirmation message in the chat window on startup
+ * Added Factory Props initialization confirmation message in the chat window on startup (REMOVED)
+
+11/15/2022
+
+ * Added Factory Props 1 Year Anniversary Statue
+
+ * Finished the new mod config system
+
+11/16/2022
+
+* Implemented more logging measures in the GameWorldModule
