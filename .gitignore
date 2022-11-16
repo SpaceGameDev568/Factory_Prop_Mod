@@ -9,3 +9,6 @@
 
 # Ignore my Blender source assets
 /BlenderAssets/*
+
+# Ignore my various source assets
+/SourceAssets/*
