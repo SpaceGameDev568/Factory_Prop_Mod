@@ -4,8 +4,11 @@
 # Ignore saved build artifacts
 /Saved/*
 
-# Ignore Crypto.json idk why it's there
+# Ignore Crypto.json because the mod doesn't use pak file encryption
 /Modding/*
 
 # Ignore my Blender source assets
 /BlenderAssets/*
+
+# Ignore my various source assets
+/SourceAssets/*

@@ -1,7 +1,3 @@
-To-Do:
-
- * Create new creature statues
-
 7/12/2022 9:00 AM
 
  U6 Prep changes:
@@ -189,3 +185,27 @@ To-Do:
 11/5/2022
 
  * Fixed the icons of the rifle, quartz ore, and quartz crystal props
+
+11/12/2022
+
+ * Bump Version 1.1.7 -> 1.2.0
+
+ * Added a mod configuration system that allows the enabling/disabling of schematics for the Prop, Foliage, and Decor unlocks.
+
+11/13/2022
+
+ * Created new schematics for each building category in the mod (39 in total) which will replace the original schematics
+
+ * Sorted all prop items in the build menu
+
+ * Added Factory Props initialization confirmation message in the chat window on startup (REMOVED)
+
+11/15/2022
+
+ * Added Factory Props 1 Year Anniversary Statue
+
+ * Finished the new mod config system
+
+11/16/2022
+
+* Implemented more logging measures in the GameWorldModule
