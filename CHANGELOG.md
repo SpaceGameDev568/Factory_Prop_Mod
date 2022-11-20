@@ -209,3 +209,11 @@
 11/16/2022
 
 * Implemented more logging measures in the GameWorldModule
+
+11/19/2022
+
+* Bump Version 1.2.0 -> 1.2.1
+
+* Project Upgrade to SML v3.4.1
+
+* Adjusted the cost of the Props: Ore Schematic to 10 Iron Ore instead of 1 Iron Plate
