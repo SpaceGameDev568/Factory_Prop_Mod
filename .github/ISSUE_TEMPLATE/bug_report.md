@@ -11,42 +11,42 @@ assignees: SpaceGameDev568
 
 A clear and concise description of what the bug is.
 
-
+(Write here)
 ---
 
 ## To Reproduce
 
 Steps to reproduce the behavior. If it involves content from other mods, be sure to state what.
 
-
+(Write here)
 ---
 
 ## Expected behavior
 
 A clear and concise description of what you expected to happen.
 
-
+(Write here)
 ---
 
 ## Multiplayer?
 
 If you're playing in multiplayer, please state if it affects host or clients, etc.
 
-
+(Write here)
 ---
 
 ## Screenshots or Videos
 
 If applicable, add screenshots or a video to help explain your problem. I suggest Streamable as video uploading service and [ShareX](https://getsharex.com/) as an image/video capture tool, if you need one.
 
-
+(Write here)
 ---
 
 ## Other Mods
 
 What other mods do you have installed? Set your SMM to Show 'Enabled' mode, which lists all mods, including dependencies, and put a screenshot here. Alternatively, export and attach your SMM profile, or simply list what mods you have installed.
 
-
+(Write here)
 ---
 
 ## Additional context
