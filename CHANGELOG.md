@@ -217,3 +217,9 @@
 * Project Upgrade to SML v3.4.1
 
 * Adjusted the cost of the Props: Ore Schematic to 10 Iron Ore instead of 1 Iron Plate
+
+11/20/2022
+
+ * Fixed the bone attachment of the helmet on the Idle Pioneer Buildable
+
+ * Added a new hologram system for props
