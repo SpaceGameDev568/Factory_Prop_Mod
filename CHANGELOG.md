@@ -223,3 +223,17 @@
  * Fixed the bone attachment of the helmet on the Idle Pioneer Buildable
 
  * Added a new hologram system for props
+
+ * Removed some unused content
+
+11/22/2022
+
+ * Bump Version 1.2.1 -> 1.2.2
+
+ * Added new Grass Big Tuft to Foliage
+
+ * Added 3 new Leaf Bed variants to Foliage
+
+ * Added 2 new Arc Geysers to Foliage
+
+ * Added an adaptive hologram to Ceiling Arm 1, Wall Arm, Large Pipes, Control Panel, Industrial Heat Sink, MAM Screen 1 and 2, Docking Station Claw, Wall Mounted Aircon Unit, Ceiling Arm 2, and Cave Ceiling.
