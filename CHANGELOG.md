@@ -237,3 +237,11 @@
  * Added 2 new Arc Geysers to Foliage
 
  * Added an adaptive hologram to Ceiling Arm 1, Wall Arm, Large Pipes, Control Panel, Industrial Heat Sink, MAM Screen 1 and 2, Docking Station Claw, Wall Mounted Aircon Unit, Ceiling Arm 2, and Cave Ceiling.
+
+12/2/2022
+
+ * Bump Version 1.2.2 -> 1.2.3
+
+ * Updated config file structure
+
+ * Minor Optimizations
