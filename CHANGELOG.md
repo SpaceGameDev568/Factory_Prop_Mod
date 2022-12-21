@@ -252,6 +252,8 @@
 
 12/21/2022
 
+ * Updated SML dependency version requirement to ^3.4.1
+
  * Updated Parachute Prop mesh
 
  * Added Gift Bundle Prop
