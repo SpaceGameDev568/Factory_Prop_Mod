@@ -245,3 +245,17 @@
  * Updated config file structure
 
  * Minor Optimizations
+
+12/17/2022
+
+ * Updated FPM_GameWorldModule config checks to be inline with the new config structure. The main checks had been previously missed and caused 800 errors when attempting to load the game.
+
+12/21/2022
+
+ * Updated Parachute Prop mesh
+
+ * Added Gift Bundle Prop
+
+ * Added FICSMAS Hat Prop
+
+ * Updated Config File to match new amount of props
