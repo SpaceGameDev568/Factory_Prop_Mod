@@ -261,3 +261,9 @@
  * Added FICSMAS Hat Prop
 
  * Updated Config File to match new amount of props
+
+12/29/2022
+
+ * Bump Version 1.2.3 -> 1.2.4
+
+ * Added an improved mesh to the Industrial Cooling Unit buildable and fixed ladder not working
