@@ -269,3 +269,19 @@
  * Added an improved mesh to the Industrial Cooling Unit buildable and fixed ladder not working
 
  * Updated some Decor assets with improved meshes
+
+3/12/2023
+
+ * Bump Version 1.2.4 -> 1.3.0
+
+ * Added Color Gun Prop
+
+ * Added 2 Cypress Trees
+
+ * Added 2 Old Huegelainen Trees
+
+ * Added Kapok Tree Red
+
+ * Added 3 Thistles
+
+ * Added 2 Thorn Bushes
