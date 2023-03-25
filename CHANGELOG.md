@@ -272,9 +272,10 @@
 
 3/12/2023
 
- * Bump Version 1.2.4 -> 1.3.0
+  NOTE: All of the following changes for this date have been excluded from the build or rolled back.
+  <!--
 
- * Added Color Gun Prop
+ * Bump Version 1.2.4 -> 1.3.0
 
  * Added 2 Cypress Trees
 
@@ -285,3 +286,11 @@
  * Added 3 Thistles
 
  * Added 2 Thorn Bushes
+-->
+3/25/2023
+
+ * Set Version 1.2.4 -> 1.2.5
+
+ * Added Color Gun Prop
+
+ * Fixed materials on nature foundations having too much light emmission.
