@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.2.7",
-	"SemVersion": "1.2.7",
+	"VersionName": "1.2.8",
+	"SemVersion": "1.2.8",
 	"FriendlyName": "Factory Props",
 	"Description": "Your one stop shop for all your decorating needs!",
 	"Category": "Modding",
@@ -15,6 +15,18 @@
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
 	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Factory_Prop_Mod",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "SML",
