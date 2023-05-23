@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.2.8",
-	"SemVersion": "1.2.8",
+	"VersionName": "1.2.99",
+	"SemVersion": "1.2.99",
 	"FriendlyName": "Factory Props",
 	"Description": "Your one stop shop for all your decorating needs!",
 	"Category": "Modding",
@@ -15,7 +15,7 @@
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
 	"Installed": false,
-		"Modules": [
+	"Modules": [
 		{
 			"Name": "Factory_Prop_Mod",
 			"Type": "Runtime",
