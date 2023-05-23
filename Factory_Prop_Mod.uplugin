@@ -15,16 +15,11 @@
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
 	"Installed": false,
-	"Modules": [
+		"Modules": [
 		{
 			"Name": "Factory_Prop_Mod",
 			"Type": "Runtime",
-			"LoadingPhase": "PreDefault",
-			"WhitelistPlatforms": [
-				"Win64",
-				"Mac",
-				"Linux"
-			]
+			"LoadingPhase": "Default"
 		}
 	],
 	"Plugins": [

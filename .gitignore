@@ -3,6 +3,8 @@
 
 # Ignore saved build artifacts
 /Saved/*
+/Intermediate/*
+/Binaries/*
 
 # Ignore Crypto.json because the mod doesn't use pak file encryption
 /Modding/*
