@@ -293,4 +293,74 @@
 
  * Added Color Gun Prop
 
- * Fixed materials on nature foundations having too much light emmission.
+ * Fixed materials on nature foundations having too much light emission.
+
+7/14/2023
+
+  * Upgraded to Unreal Engine 5 and SML v3.5.0
+
+  * Removed Deprecated Assets:
+
+    * Ground Cover Vegetation 2
+
+    * Jelly Leaf 1-4
+
+    * Jelly String
+
+    * Leaf Bed
+
+    * Leaf Bed Dry
+
+    * Leaf Bed Seaweed
+
+    * Tall Mushroom 2-3
+
+    * Banana Tree 2
+
+    * Cat Palm 2
+
+    * Latan Palm 1-2
+
+    * Lowlands Pine Old Growth
+
+    * Selena Tree 1-2
+
+    * Dead Swamp Tree 3
+
+    * All Titan Tree Assets (10)
+
+    * Uppochner Tree Balloon
+
+    * Willow Tree 1-3
+    
+    * Clam Cluster
+
+    * Compact Coral
+
+    * Coral Pieces 1-5
+
+    * Coral Shard 1-2
+
+    * Coral Sunflower 1
+
+    * Coral Tube 1-2
+
+    * Coral Plant 2-6
+
+    * Coral Reef 2
+
+    * Kelp 2
+
+    * Grass Fields Landmark Arch
+
+    * Beryl Nut Bush 2
+    
+    * Cave Arc
+
+    * Cave Mushroom Pods
+
+    * Rubble Cluster 1
+
+    * Sea Rock 4-5
+    
+    * Clear Water
