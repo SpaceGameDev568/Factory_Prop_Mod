@@ -297,6 +297,8 @@
 
 7/14/2023
 
+  Bump version 1.2.99 -> 1.3.0
+
   * Upgraded to Unreal Engine 5 and SML v3.5.0
 
   * Removed Deprecated Assets:
@@ -364,3 +366,19 @@
     * Sea Rock 4-5
     
     * Clear Water
+
+7/15/2023
+
+  * Changed Cliffs to use grass material instead of sand
+
+  Added new content:
+
+  * Updated Titan Tree
+
+  * Blue Palm Dead
+
+  * Farty Rocks 4-5
+
+  * Destructible Rock Flat
+
+  * Cypress Tree 1-2
