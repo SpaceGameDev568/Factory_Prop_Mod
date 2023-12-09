@@ -386,3 +386,7 @@
 8/1/2023
 
   * Migrated Mod Configuration system to new Per-Session Settings
+
+11/29/2023
+
+  * Updated Girder Support Tower mesh
