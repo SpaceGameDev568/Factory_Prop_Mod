@@ -390,3 +390,7 @@
 11/29/2023
 
   * Updated Girder Support Tower mesh
+
+12/12/2023
+
+  * Added a configuration option for crash prevention to disable all schematics
