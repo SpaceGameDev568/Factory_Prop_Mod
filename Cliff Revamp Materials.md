@@ -15,7 +15,7 @@ Cliff materials to do:
 Lynock's ideas:
 
 Grass ✓
-Forest
+Forest ✓
 Sand ✓
 Desert (you already use specific parts of these, with red sandstone. Might be able to map those on the existing cliff pieces, too? They do use huge chunks of rock)
 Rock (the default used on the sides of the cliffs, but then mapped for the entire cliff)
