@@ -8,7 +8,7 @@ Cliff materials to do:
 
     * Ancient? ✓ CaveFloor_Inst /Game/FactoryGame/World/Environment/Rock/CaveFloor/Material/CaveFloor
 
-    * Basalt? MI_Cave_Floors_01 Game/FactoryGame/World/Environment/Caves/Materials/MI_Cave_Floors_01.MI_Cave_Floors_01
+    * Basalt? ✓ MI_Cave_Floors_01 Game/FactoryGame/World/Environment/Caves/Materials/MI_Cave_Floors_01.MI_Cave_Floors_01
 
 
 Lynock's ideas:
