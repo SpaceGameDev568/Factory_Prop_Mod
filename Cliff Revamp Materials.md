@@ -6,7 +6,7 @@ Cliff materials to do:
 
     * Revert existing cliffs to Sand ✓
 
-    * Ancient? CaveFloor_Inst /Game/FactoryGame/World/Environment/Rock/CaveFloor/Material/CaveFloor
+    * Ancient? ✓ CaveFloor_Inst /Game/FactoryGame/World/Environment/Rock/CaveFloor/Material/CaveFloor
 
     * Basalt? MI_Cave_Floors_01 Game/FactoryGame/World/Environment/Caves/Materials/MI_Cave_Floors_01.MI_Cave_Floors_01
 
@@ -21,4 +21,6 @@ Rock ✓ (the default used on the sides of the cliffs, but then mapped for the e
 Red Grass ✓
 Mud? ✕ From the swamps?
 
-Perhaps full rock textures for the rib/pillar pieces? They currently use a grass one, as well (mapped directly on top).
+Perhaps full rock textures for the rib/pillar pieces? They currently use a grass one, as well (mapped directly on top). ✓
+
+Desert Arches later?
