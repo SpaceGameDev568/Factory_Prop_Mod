@@ -25,7 +25,7 @@ public class Factory_Prop_Mod : ModuleRules
 		PublicDependencyModuleNames.AddRange(
 			new string[]
 			{
-				"Core",
+				"Core", "FactoryGame",
 				// ... add other public dependencies that you statically link with here ...
 			}
 			);
