@@ -386,3 +386,31 @@
 8/1/2023
 
   * Migrated Mod Configuration system to new Per-Session Settings
+
+11/29/2023
+
+  * Updated Girder Support Tower mesh
+
+12/12/2023
+
+  * Added a configuration option for crash prevention to disable all schematics
+
+12/14/2023
+
+  * Added 138 new Cliff pieces in Grass, Forest, Rock, Red Grass, Cave Floor, and Cave Ceiling Material Varieties
+
+  * Reverted existing cliffs to sand instead of grass for backwards compatibility
+
+12/19/2023
+
+  * Created a new hologram that allows Props to be placed on top of other Props
+
+  * Updated a lot of the Small Foliage buildables to remove player collision on them
+
+12/20/2023
+
+  * Created and updated icons for the new cliffs
+
+12/30/2023
+
+  * Minor bug fixes
