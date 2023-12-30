@@ -405,4 +405,12 @@
 
   * Created a new hologram that allows Props to be placed on top of other Props
 
-  * Updated a lot of the Small Foliage builables to remove player collision on them
+  * Updated a lot of the Small Foliage buildables to remove player collision on them
+
+12/20/2023
+
+  * Created and updated icons for the new cliffs
+
+12/30/2023
+
+  * Minor bug fixes
