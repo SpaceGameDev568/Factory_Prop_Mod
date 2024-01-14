@@ -1,4 +1,4 @@
-name: "Bug Report"
+name: Bug Report
 description: Create a report to let us know about an issue with the mod
 title: "[BUG]: "
 labels: ["bug", "triage"]
@@ -26,7 +26,7 @@ body:
       options:
         - Single Player
         - P2P Host (You are hosting a game locally and letting your friends join)
-        - P2P Client (You are connecting to your friend's game)
+        - P2P Client "(You are connecting to your friend's game)"
         - Client (You are connecting to a dedicated server)
         - Server (You are either self hosting one or pay to have one hosted in the cloud with a service like ShockByte)
       default: 0
