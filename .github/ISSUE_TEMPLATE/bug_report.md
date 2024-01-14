@@ -1,9 +1,23 @@
----
+
 name: Bug report
 about: Create a report to let me know about an issue with the mod
 title: "[BUG]"
 labels: bug
 assignees: SpaceGameDev568
+
+
+
+## Platform
+
+__Environment (Ex. Winblows/Linux):__
+
+__Type (Ex. Client/Server/PeerToPeer):__
+
+__Game Version (Ex. CL#273254):__
+
+__SML Version (Ex. v3.7.0)__
+
+__Mod Version (Ex. v1.0.0)__
 
 ---
 
@@ -37,8 +51,7 @@ If you're playing in multiplayer, please state if it affects host or clients, et
 
 ## Screenshots or Videos
 
-If applicable, add screenshots or a video to help explain your problem. I suggest Streamable as video uploading service and [ShareX](https://getsharex.com/) as an image/video capture tool, if you need one.
-
+If applicable, add screenshots or a video to help explain your problem. To take a screenshot on Winblows 10 or 11, press `Win + Shift + S` and select the area you want to capture, then click on your GitHub report and press `Ctrl + V` to paste it in.
 
 ---
 
