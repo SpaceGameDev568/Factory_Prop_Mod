@@ -1,6 +1,6 @@
 name: Bug Report
 description: Create a report to let us know about an issue with the mod
-title: "[BUG]: "
+title: ""
 labels: ["bug", "triage"]
 body:
   - type: markdown
@@ -32,12 +32,16 @@ body:
       default: 0
     validations:
       required: true
-  - type: input
+  - type: dropdown
     id: game-version
     attributes:
       label: Game Version
-      description: What version of the game are you using?
-      placeholder: CL#273254
+      description: What version of Satisfactory are you using?
+      options:
+        - Early Access
+        - Experimental
+        - Cracked (Pirated)
+      default: 0
     validations:
       required: true
   - type: input
@@ -84,8 +88,8 @@ body:
   - type: checkboxes
     id: terms
     attributes:
-      label: agreement
-      description: By submitting this issue, you agree to allow us to contact you for more information about this bug if necessary.
+      label: Contact agreement
+      description: By submitting this issue, you agree to allow us to contact you for more information regarding this bug if necessary.
       options:
-        - label: I agree to allow the developer to contact me for more information about this bug if necessary.
+        - label: I agree to allow the developer to contact me for more information regarding this bug if necessary.
           required: true
