@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
         Thanks for taking the time to fill out this bug report!
-- type: dropdown
+  - type: dropdown
     id: os
     attributes:
       label: Operating System
@@ -18,7 +18,7 @@ body:
       default: 0
     validations:
       required: true
-- type: dropdown
+  - type: dropdown
     id: environment
     attributes:
       label: Environment
@@ -32,7 +32,7 @@ body:
       default: 0
     validations:
       required: true
-- type: textarea
+  - type: textarea
     id: description
     attributes:
       label: Describe the bug
@@ -40,7 +40,7 @@ body:
       placeholder: Tell us what you see!
     validations:
       required: true      
-- type: textarea
+  - type: textarea
     id: expected-behavior
     attributes:
       label: Expected Behavior
