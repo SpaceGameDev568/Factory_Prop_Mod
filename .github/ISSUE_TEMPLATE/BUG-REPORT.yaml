@@ -39,7 +39,6 @@ body:
       options:
         - Early Access
         - Experimental
-        - Cracked (Pirated)
       default: 0
     validations:
       required: true
