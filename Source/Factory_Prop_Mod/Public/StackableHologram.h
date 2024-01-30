@@ -1,4 +1,4 @@
-// Copyright 2023 - 2024 Jesse Hodgson. All Rights Reserved.
+// Copyright 2023 - 2024 Jesse Hodgson
 
 #pragma once
 
@@ -6,9 +6,6 @@
 #include "FGGenericBuildableHologram.h"
 #include "StackableHologram.generated.h"
 
-/**
- * 
- */
 UCLASS()
 class FACTORY_PROP_MOD_API AStackableHologram : public AFGGenericBuildableHologram
 {

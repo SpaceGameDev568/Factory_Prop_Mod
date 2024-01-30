@@ -1,4 +1,4 @@
-// Copyright 2023 - 2024 Jesse Hodgson. All Rights Reserved.
+// Copyright 2023 - 2024 Jesse Hodgson
 
 
 #include "StackableHologram.h"
@@ -9,8 +9,7 @@ AStackableHologram::AStackableHologram()
 }
 
 bool AStackableHologram::IsValidHitResult(const FHitResult& hitResult) const {
+	// Always return a valid result if we hit something
 	return hitResult.bBlockingHit;
-	// Only works if the hit actor is of type `FGBuildable`, but won't work for anything else, such as terrain.
-	//return Cast<AFGBuildable>(hitResult.GetActor()) != nullptr;
 }
 

@@ -1,4 +1,4 @@
-// Copyright 2023 - 2024 Jesse Hodgson. All Rights Reserved.
+// Copyright 2023 - 2024 Jesse Hodgson
 
 #include "Factory_Prop_Mod.h"
 
