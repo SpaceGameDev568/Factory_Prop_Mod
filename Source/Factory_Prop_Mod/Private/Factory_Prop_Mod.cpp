@@ -15,6 +15,8 @@ void FFactory_Prop_ModModule::ShutdownModule()
 	// we call this function before unloading the module.
 }
 
+DEFINE_LOG_CATEGORY(LogFactory_Prop_Mod);
+
 #undef LOCTEXT_NAMESPACE
 	
 IMPLEMENT_MODULE(FFactory_Prop_ModModule, Factory_Prop_Mod)
