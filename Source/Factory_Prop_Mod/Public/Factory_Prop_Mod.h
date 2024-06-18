@@ -5,7 +5,7 @@
 #include "CoreMinimal.h"
 #include "Modules/ModuleManager.h"
 
-class FFactory_Prop_ModModule : public IModuleInterface
+class FFactory_Prop_ModModule final : public IModuleInterface
 {
 public:
 

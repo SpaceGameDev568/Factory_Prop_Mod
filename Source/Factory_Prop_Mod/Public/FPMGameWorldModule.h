@@ -10,19 +10,19 @@
 /**
  * 
  */
-UCLASS()
-class FACTORY_PROP_MOD_API UFPMGameWorldModule : public UGameWorldModule
-{
-	GENERATED_BODY()
+ UCLASS()
+ class FACTORY_PROP_MOD_API UFPMGameWorldModule : public UGameWorldModule
+ {
+ 	GENERATED_BODY()
 
- public:
+  public:
 
- 	UFPMGameWorldModule();
+  	UFPMGameWorldModule();
 
- 	UFUNCTION(BlueprintCallable, Category = "Factory Props")
-	void Init(TArray<TSubclassOf<UFGSchematic>> InSchematics); // Function called manually by subclasses to initialize the module
+  	UFUNCTION(BlueprintCallable, Category = "Factory Props")
+ 	void Init(TArray<TSubclassOf<UFGSchematic>> InSchematics); // Function called manually by subclasses to initialize the module
 
-	FFPM_ModConfigStruct FPMConfig;
+ 	FFPM_ModConfigStruct FPMConfig;
 
-	bool bDisableAll; // Boolean that is true when the user needs to disable all schematics in case of a catastrophic failure
-};
+ 	bool bDisableAll; // Boolean that is true when the user needs to disable all schematics in case of a catastrophic failure
+ };
