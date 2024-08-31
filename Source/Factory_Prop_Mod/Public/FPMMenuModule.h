@@ -1,4 +1,4 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+// Copyright 2024 Jesse Hodgson
 
 #pragma once
 
@@ -11,9 +11,7 @@ class FACTORY_PROP_MOD_API UFPMMenuModule : public UMenuWorldModule
 {
 	GENERATED_BODY()
 	
-public:	
-	// Sets default values for this actor's properties
-	UFPMMenuModule();
+public:
 
 	UFUNCTION(BlueprintCallable)
 	void Init();

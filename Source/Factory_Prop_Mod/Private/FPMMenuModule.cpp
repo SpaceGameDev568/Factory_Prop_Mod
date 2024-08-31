@@ -6,19 +6,13 @@
 #include "Factory_Prop_Mod.h"
 #include "ModLoading/ModLoadingLibrary.h"
 
-// Sets default values
-UFPMMenuModule::UFPMMenuModule()
-{
-}
-
 void UFPMMenuModule::Init()
 {
 	// Get an instance of the ModLoadingLibrary to use for retrieving mod info
-	const UGameInstance* GameInstance = GetWorld()->GetGameInstance();
-	UModLoadingLibrary *ModLoadingLibrary = GameInstance->GetSubsystem<UModLoadingLibrary>();
+	UModLoadingLibrary *ModLoadingLibrary = GetWorld()->GetGameInstance()->GetSubsystem<UModLoadingLibrary>();
 
 	// Log metadata from ModUpdateNotifier for debug purposes
-	UE_LOG(LogFactory_Prop_Mod, Verbose, TEXT("Loaded Factory_Prop_Mod Menu Module."));
+	UE_LOG(LogFactory_Prop_Mod, Verbose, TEXT("Loaded Factory Props Menu Module."));
 
 	FModInfo ModMetaInfo;
 	ModLoadingLibrary->GetLoadedModInfo("Factory_Prop_Mod", ModMetaInfo);

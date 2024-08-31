@@ -11,8 +11,6 @@ class FACTORY_PROP_MOD_API AStackableHologram : public AFGGenericBuildableHologr
 {
 	GENERATED_BODY()
 
-	AStackableHologram();
-
 public:
 
 	virtual bool IsValidHitResult(const FHitResult& hitResult) const override;
