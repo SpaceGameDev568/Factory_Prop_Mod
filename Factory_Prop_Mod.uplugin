@@ -26,13 +26,11 @@
 		{
 			"Name": "SML",
 			"SemVersion": "^3.8.0",
-			"Enabled": true,
-			"BasePlugin": false
+			"Enabled": true
 		},
 		{
 			"Name": "ModUpdateNotifier",
 			"Enabled": true,
-			"Optional": true,
 			"SemVersion": "^2.0.0"
 		}
 	],
