@@ -31,7 +31,7 @@
 		{
 			"Name": "ModUpdateNotifier",
 			"Enabled": true,
-			"SemVersion": "^2.0.2"
+			"SemVersion": "^2.1.0"
 		}
 	],
 	"GameVersion": ">=365306"
