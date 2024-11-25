@@ -1,1 +1,0 @@
-~/SatisfactoryDedicatedServer/FactoryServer.sh -multihome=10.2.1.245 -log -unattended
