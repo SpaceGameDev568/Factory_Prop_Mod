@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 2,
-	"VersionName": "2.2.1",
-	"SemVersion": "2.2.1",
+	"VersionName": "2.2.2",
+	"SemVersion": "2.2.2",
 	"FriendlyName": "Factory Props",
 	"Description": "Your one-stop-shop for all your decorating needs!",
 	"Category": "Modding",
@@ -34,5 +34,5 @@
 			"SemVersion": "^2.1.0"
 		}
 	],
-	"GameVersion": ">=365306"
+	"GameVersion": ">=383729"
 }
