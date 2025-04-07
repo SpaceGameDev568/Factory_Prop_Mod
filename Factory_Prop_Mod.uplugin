@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 2,
-	"VersionName": "2.4.5",
-	"SemVersion": "2.4.5",
+	"VersionName": "2.4.6",
+	"SemVersion": "2.4.6",
 	"FriendlyName": "Factory Props",
 	"Description": "Your one-stop-shop for all your decorating needs!",
 	"Category": "Modding",
@@ -31,7 +31,7 @@
 		{
 			"Name": "ModUpdateNotifier",
 			"Enabled": true,
-			"SemVersion": "^2.3.0"
+			"SemVersion": "^2.3.4"
 		},
 		{
 			"Name": "FixReliableBufferOverflow",
