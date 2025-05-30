@@ -7,6 +7,7 @@ public class Factory_Prop_Mod : ModuleRules
 	public Factory_Prop_Mod(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
+		CppStandard = CppStandardVersion.Cpp20;
 		
 		PublicDependencyModuleNames.AddRange(
 			new string[]
