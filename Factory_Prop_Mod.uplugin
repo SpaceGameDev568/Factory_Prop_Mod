@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 2,
-	"VersionName": "2.6.4",
-	"SemVersion": "2.6.4",
+	"VersionName": "2.7.0",
+	"SemVersion": "2.7.0",
 	"FriendlyName": "Factory Props",
 	"Description": "Your one-stop-shop for all your decorating needs!",
 	"Category": "Modding",
@@ -32,6 +32,11 @@
 			"Name": "ModUpdateNotifier",
 			"Enabled": true,
 			"SemVersion": "^2.4.0"
+		},
+		{
+			"Name": "PropPioneer",
+			"Enabled": true,
+			"SemVersion": "^1.0.0"
 		}
 	],
 	"GameVersion": ">=455399"
