@@ -3,7 +3,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "FGGenericBuildableHologram.h"
+#include "Hologram/FGGenericBuildableHologram.h"
 #include "StackableHologram.generated.h"
 
 UCLASS()

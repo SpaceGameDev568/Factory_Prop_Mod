@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 2,
-	"VersionName": "2.7.0",
-	"SemVersion": "2.7.0",
+	"VersionName": "2.8.0",
+	"SemVersion": "2.8.0",
 	"FriendlyName": "Factory Props",
 	"Description": "Your one-stop-shop for all your decorating needs!",
 	"Category": "Modding",
@@ -25,19 +25,15 @@
 	"Plugins": [
 		{
 			"Name": "SML",
-			"SemVersion": "^3.11.3",
+			"SemVersion": "^3.12.0",
 			"Enabled": true
-		},
-		{
-			"Name": "ModUpdateNotifier",
-			"Enabled": true,
-			"SemVersion": "^2.4.0"
 		},
 		{
 			"Name": "PropPioneer",
 			"Enabled": true,
-			"SemVersion": "^1.0.0"
+			"SemVersion": "^2.0.0",
+			"Optional": true
 		}
 	],
-	"GameVersion": ">=455399"
+	"GameVersion": ">=491125"
 }
