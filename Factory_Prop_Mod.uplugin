@@ -33,7 +33,12 @@
 			"Enabled": true,
 			"SemVersion": "^2.0.0",
 			"Optional": true
+		},
+		{
+			"Name": "SpaceGameDevModLib",
+			"Enabled": true,
+			"SemVersion": "^1.0.0"
 		}
 	],
-	"GameVersion": ">=491125"
+	"GameVersion": ">=502094"
 }
